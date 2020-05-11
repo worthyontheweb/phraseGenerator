@@ -1,2 +1,2 @@
 # phraseGenerator
-javascript phrase generator
+javascript phrase generator, based on a freecodecamp tutorial
